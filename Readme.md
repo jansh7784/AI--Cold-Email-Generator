@@ -22,7 +22,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/coldemail.git
+   git clone https://github.com/jansh7784/AI--Cold-Email-Generator.git
    cd coldemail
    ```
 2. Navigate to the project directory:
